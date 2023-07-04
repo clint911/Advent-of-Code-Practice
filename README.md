@@ -1,2 +1,1 @@
-# ecom-shop
- Advent of code in java 
+Advent of code in Java
