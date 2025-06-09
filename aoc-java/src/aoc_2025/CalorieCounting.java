@@ -1,4 +1,4 @@
-package adventOfCodeDayOne;
+package aoc_2025;
 
 import java.io.FileReader;
 import java.io.BufferedReader;
@@ -11,7 +11,7 @@ public class CalorieCounting {
     public  static void main(String[] args) {
         System.out.println("Welcome to Day one of Advent of Code by Clinton");
         String fileName = "/Users/user/Downloads/projects/adventOfCode/src" +
-                "/adventOfCodeDayOne/input.txt";//fetching the file and assigning it to a variable
+                "/aoc_2025/input.txt";//fetching the file and assigning it to a variable
         int maxSum = 0;
         int currSum = 0;
         try {
